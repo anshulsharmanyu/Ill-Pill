@@ -1,0 +1,2 @@
+# Ill-Pill
+At some point in our life, I think we've all faced the situation where we have a bunch of pills and no clue as to what each one is or does, or what it contains and it's always a chore to find a good and reliable resource to get that information. The situation is even worse for the visually impaired population and people in their Golden years, so we wanted a solution that gives the power of information to the people and at the same time helps make our elderly and visually impaired population more independent.
