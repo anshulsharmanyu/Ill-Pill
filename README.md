@@ -2,13 +2,13 @@
 
 At some point in our life, I think we have all faced the situation where we have a bunch of pills and no clue as to what each one is or does, or what it contains and it's always a chore to find a good and reliable resource to get that information. The situation is even worse for the visually impaired population and people in their Golden years, so we wanted a solution that gives the power of information to the people and at the same time helps make our elderly and visually impaired population more independent. We have built an application which will help you identify the pill with just a click of it and also let you know the ingredients and use of the medicine. We also allow the user to use Alexa application to hear about the pill and order it as well online.
 
-##Screenshots Web Application
+## hoScreenshots Web Application
 
-![w](https://user-images.githubusercontent.com/31738731/46917962-4be4d000-cf9a-11e8-8768-d9a3810be99a.jpeg)
+![w](https://user-images.githubusercontent.com/31738731/46917962-4be4d000-cf9a-11e8-8768-d9a3810be99a.jpeg =250X250)
 ![w1](https://user-images.githubusercontent.com/31738731/46917963-5010ed80-cf9a-11e8-83b6-3b1e3951262f.jpeg)
 ![w2](https://user-images.githubusercontent.com/31738731/46917966-51dab100-cf9a-11e8-913d-a60c76aa5c9b.jpeg)
 
-##Screenshots Mobile Application
+## Screenshots Mobile Application
 
 ![m1](https://user-images.githubusercontent.com/31738731/46917967-54d5a180-cf9a-11e8-8921-485843434bd4.jpeg)
 ![m2](https://user-images.githubusercontent.com/31738731/46917969-57d09200-cf9a-11e8-9ce8-782f2246fdfb.jpeg)
