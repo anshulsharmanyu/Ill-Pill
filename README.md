@@ -4,7 +4,7 @@ At some point in our life, I think we have all faced the situation where we have
 
 ## hoScreenshots Web Application
 
-![w](https://user-images.githubusercontent.com/31738731/46917962-4be4d000-cf9a-11e8-8768-d9a3810be99a.jpeg =250X250)
+![](https://user-images.githubusercontent.com/31738731/46917962-4be4d000-cf9a-11e8-8768-d9a3810be99a.jpeg =250X250)
 ![w1](https://user-images.githubusercontent.com/31738731/46917963-5010ed80-cf9a-11e8-83b6-3b1e3951262f.jpeg)
 ![w2](https://user-images.githubusercontent.com/31738731/46917966-51dab100-cf9a-11e8-913d-a60c76aa5c9b.jpeg)
 
